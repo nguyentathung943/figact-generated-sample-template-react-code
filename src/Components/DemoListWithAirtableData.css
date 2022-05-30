@@ -1,0 +1,164 @@
+
+.DemoListWithAirtableData_DemoListWithAirtableData {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(20,20,20,1.00);
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List {
+	position: absolute;
+	right: 969px;
+	top: 115px;
+	width: 340px;
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item {
+	position: relative;
+	width: 340px;
+	height: 102px;
+	display: flex;
+	padding-top: 8px;
+	box-sizing: border-box;
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item .Thumbnail {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 176px;
+	height: 94px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 8px;
+	box-sizing: border-box;
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item .Thumbnail .ThumbnailImages {
+	position: relative;
+	flex: none;
+	margin-bottom: 10px;
+	width: 168px;
+	height: 94px;
+	background: rgba(255,255,255,1.00);
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item .Thumbnail .ThumbnailImages .ThumbnailImages_1 {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 168px;
+	height: 94px;
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item .Thumbnail .ThumbnailImages .ThumbnailImages_1 .img {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 168px;
+	height: 94px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item .Thumbnail .ThumbnailImages .VideoTime {
+	position: absolute;
+	right: 4px;
+	bottom: 4px;
+	width: 33px;
+	height: 18px;
+	display: flex;
+	padding-top: 3px;
+	padding-right: 4px;
+	padding-bottom: 3px;
+	padding-left: 4px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,1.00);
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item .Thumbnail .ThumbnailImages .VideoTime .VideoTime_1 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 25px;
+	height: 12px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 11.71875px;
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item .VideoText {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 170px;
+	height: 94px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	box-sizing: border-box;
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item .VideoText .abc {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 170px;
+	height: 40px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item .VideoText .ChannelDesc {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 170px;
+	height: 40px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	box-sizing: border-box;
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item .VideoText .ChannelDesc .channelName {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 170px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item .VideoText .ChannelDesc .channelName .JamesGouse {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 170px;
+	height: 18px;
+	color: rgba(170,170,170,1.00);
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item .VideoText .ChannelDesc .Channelviews {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 170px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+}
+.DemoListWithAirtableData_DemoListWithAirtableData .List ._Item .VideoText .ChannelDesc .Channelviews ._1Mviews3yearsago {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 170px;
+	height: 18px;
+	color: rgba(170,170,170,1.00);
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}

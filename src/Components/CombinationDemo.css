@@ -1,0 +1,851 @@
+
+.CombinationDemo_CombinationDemo {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(20,20,20,1.00);
+}
+.CombinationDemo_CombinationDemo .Frame6 {
+	position: absolute;
+	left: 210px;
+	top: 60px;
+	width: 46.31944444444444%;
+	height: 32px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame1 {
+	position: relative;
+	flex: none;
+	width: 87px;
+	height: 32px;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 143px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame1 .CATEGORY {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 71px;
+	height: 16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 16.40625px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame8 {
+	position: relative;
+	flex: none;
+	width: 67px;
+	height: 32px;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 143px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame8 .NATION {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 51px;
+	height: 16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 16.40625px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame9 {
+	position: relative;
+	flex: none;
+	width: 68px;
+	height: 32px;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 143px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame9 .MOVIES {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 52px;
+	height: 16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 16.40625px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame10 {
+	position: relative;
+	flex: none;
+	width: 109px;
+	height: 32px;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 143px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame10 .SERIESMOVIE {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 93px;
+	height: 16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 16.40625px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame11 {
+	position: relative;
+	flex: none;
+	width: 78px;
+	height: 32px;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 143px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame11 .CINEMAS {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 62px;
+	height: 16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 16.40625px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame12 {
+	position: relative;
+	flex: none;
+	width: 125px;
+	height: 32px;
+	display: flex;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 143px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame12 .COMMINGSOON {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 109px;
+	height: 16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 16.40625px;
+}
+.CombinationDemo_CombinationDemo .Frame4 {
+	position: absolute;
+	right: 154px;
+	top: 124px;
+	width: 204px;
+	height: 448px;
+	background: rgba(47,47,47,1.00);
+}
+.CombinationDemo_CombinationDemo .Frame4 .image31 {
+	position: absolute;
+	left: 13px;
+	top: 8px;
+	width: 48px;
+	height: 59px;
+	object-fit: cover;
+	overflow: hidden;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .Frame4 .image35 {
+	position: absolute;
+	left: 12px;
+	top: 382px;
+	width: 48px;
+	height: 59px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .Frame4 .image23 {
+	position: absolute;
+	left: 12px;
+	top: 87px;
+	width: 48px;
+	height: 59px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .Frame4 .image33 {
+	position: absolute;
+	left: 11px;
+	top: 158px;
+	width: 48px;
+	height: 59px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .Frame4 .image34 {
+	position: absolute;
+	left: 12px;
+	top: 231px;
+	width: 48px;
+	height: 59px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .Frame4 .SonictheHedgehog2 {
+	position: absolute;
+	left: 81px;
+	top: 28px;
+	width: 109px;
+	height: 34px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 16.40625px;
+}
+.CombinationDemo_CombinationDemo .Frame4 .MoonKnight {
+	position: absolute;
+	left: 74px;
+	top: 86px;
+	width: 119px;
+	height: 66px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 16.40625px;
+}
+.CombinationDemo_CombinationDemo .Frame4 .SpiderManNoWayHome {
+	position: absolute;
+	left: 79px;
+	top: 172px;
+	width: 109px;
+	height: 34px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 16.40625px;
+}
+.CombinationDemo_CombinationDemo .Frame4 .OnePiece {
+	position: absolute;
+	left: 84px;
+	top: 249px;
+	width: 109px;
+	height: 34px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 16.40625px;
+}
+.CombinationDemo_CombinationDemo .Frame4 .AttackonTitan {
+	position: absolute;
+	left: 84px;
+	top: 325px;
+	width: 109px;
+	height: 34px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 16.40625px;
+}
+.CombinationDemo_CombinationDemo .Frame4 .Batman {
+	position: absolute;
+	left: 84px;
+	top: 400px;
+	width: 109px;
+	height: 34px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 16.40625px;
+}
+.CombinationDemo_CombinationDemo .Frame4 .image29 {
+	position: absolute;
+	left: 12px;
+	top: 307px;
+	width: 48px;
+	height: 59px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .Frame {
+	position: absolute;
+	left: 922px;
+	top: 66px;
+	width: 24px;
+	height: 24px;
+}
+.CombinationDemo_CombinationDemo .Frame .Vector {
+	position: absolute;
+	left: 3.09375px;
+	top: 2.25px;
+	width: 74.21468098958334%;
+	height: 84.375%;
+}
+.CombinationDemo_CombinationDemo .CAROUSEL {
+	position: absolute;
+	left: 59px;
+	top: 625px;
+	width: 181px;
+	height: 25px;
+	color: rgba(255,122,0,1.00);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 18.75px;
+}
+.CombinationDemo_CombinationDemo .Carousel {
+	position: absolute;
+	left: 46px;
+	top: 681px;
+	width: 66.11111111111111%;
+	height: 354px;
+}
+.CombinationDemo_CombinationDemo ._Right {
+	position: absolute;
+	left: 916px;
+	top: -42px;
+	width: 36px;
+	height: 36px;
+}
+.CombinationDemo_CombinationDemo ._Right .Vector_1 {
+	position: absolute;
+	left: 3.375px;
+	top: 3.375px;
+	width: 81.25%;
+	height: 81.25%;
+}
+.CombinationDemo_CombinationDemo ._Left {
+	position: absolute;
+	left: 856px;
+	top: -42px;
+	width: 36px;
+	height: 36px;
+}
+.CombinationDemo_CombinationDemo ._Left .Vector_2 {
+	position: absolute;
+	left: 3.375px;
+	top: 3.375px;
+	width: 81.25%;
+	height: 81.25%;
+}
+.CombinationDemo_CombinationDemo .Carousel ._Item {
+	position: relative;
+	width: 195px;
+	height: 342px;
+}
+.CombinationDemo_CombinationDemo .Carousel ._Item .film_name {
+	position: absolute;
+	left: 0px;
+	top: 291px;
+	width: 195px;
+	height: 19px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 18.75px;
+}
+.CombinationDemo_CombinationDemo .Carousel ._Item .Youtube {
+	position: absolute;
+	left: 0px;
+	top: 314px;
+	width: 134px;
+	height: 28px;
+	color: rgba(255,255,255,0.60);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 18.75px;
+}
+.CombinationDemo_CombinationDemo .Carousel ._Item .abc {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 195px;
+	height: 274px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .LISTRIGHT {
+	position: absolute;
+	right: 152px;
+	top: 623px;
+	width: 207px;
+	height: 25px;
+	color: rgba(255,122,0,1.00);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 18.75px;
+}
+.CombinationDemo_CombinationDemo .List {
+	position: absolute;
+	right: 19px;
+	top: 655px;
+	width: 340px;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 {
+	position: relative;
+	width: 340px;
+	height: 102px;
+	display: flex;
+	padding-top: 8px;
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .Thumbnail {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 176px;
+	height: 94px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 8px;
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .Thumbnail .ThumbnailImages {
+	position: relative;
+	flex: none;
+	margin-bottom: 10px;
+	width: 168px;
+	height: 94px;
+	background: rgba(255,255,255,1.00);
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .Thumbnail .ThumbnailImages .ThumbnailImages_1 {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 168px;
+	height: 94px;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .Thumbnail .ThumbnailImages .ThumbnailImages_1 .img {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 168px;
+	height: 94px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .Thumbnail .ThumbnailImages .VideoTime {
+	position: absolute;
+	right: 4px;
+	bottom: 4px;
+	width: 33px;
+	height: 18px;
+	display: flex;
+	padding-top: 3px;
+	padding-right: 4px;
+	padding-bottom: 3px;
+	padding-left: 4px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,1.00);
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .Thumbnail .ThumbnailImages .VideoTime .VideoTime_1 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 25px;
+	height: 12px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 11.71875px;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 170px;
+	height: 94px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText .abc_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 170px;
+	height: 40px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText .ChannelDesc {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 170px;
+	height: 40px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText .ChannelDesc .channelName {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 170px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText .ChannelDesc .channelName .JamesGouse {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 170px;
+	height: 18px;
+	color: rgba(170,170,170,1.00);
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText .ChannelDesc .Channelviews {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 170px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText .ChannelDesc .Channelviews ._1Mviews3yearsago {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 170px;
+	height: 18px;
+	color: rgba(170,170,170,1.00);
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.CombinationDemo_CombinationDemo .image30 {
+	position: absolute;
+	left: 154px;
+	top: 124px;
+	width: 63.05555555555556%;
+	height: 452px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .Rectangle23 {
+	position: absolute;
+	left: 157px;
+	top: 282px;
+	width: 62.84722222222222%;
+	height: 294px;
+	background: linear-gradient(0deg, rgba(0,0,0,0.20), rgba(0,0,0,0.20)),linear-gradient(0deg, rgba(0,0,0,0.20), rgba(0,0,0,0.20)),linear-gradient(180deg, rgba(46, 46, 46, 0.30) 0.0%, rgba(0, 0, 0, 0.64) 100.0%);
+	border-radius: 12px;
+}
+.CombinationDemo_CombinationDemo ._Button {
+	position: absolute;
+	left: 173px;
+	top: 484px;
+	width: 164px;
+	height: 56px;
+	display: flex;
+	padding-top: 16px;
+	padding-right: 18px;
+	padding-bottom: 16px;
+	padding-left: 18px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 14px;
+	border: none;
+}
+.CombinationDemo_CombinationDemo ._Button .ReviewNow {
+	position: relative;
+	width: 94px;
+	height: 17px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 16px;
+}
+.CombinationDemo_CombinationDemo ._Button .Frame_1 {
+	position: relative;
+	width: 24px;
+	height: 24px;
+}
+.CombinationDemo_CombinationDemo ._Button .Frame_1 .Vector_3 {
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	width: 59.016927083333336%;
+	height: 54.166666666666664%;
+}
+.CombinationDemo_CombinationDemo .SonictheHedgehog2_1 {
+	position: absolute;
+	left: 173px;
+	top: 371px;
+	width: 421px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 38px;
+	font-weight: 700;
+	line-height: 34px;
+}
+.CombinationDemo_CombinationDemo .Netflix {
+	position: absolute;
+	left: 173px;
+	top: 416px;
+	width: 421px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 34px;
+}
+.CombinationDemo_CombinationDemo .task08 {
+	position: absolute;
+	left: 1268px;
+	top: 52px;
+	width: 184px;
+	height: 48px;
+	display: flex;
+	padding-top: 12px;
+	padding-right: 16px;
+	padding-bottom: 12px;
+	padding-left: 37px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(47,47,47,0.00);
+	border-radius: 12px;
+}
+.CombinationDemo_CombinationDemo .task08 .Group1 {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 24px;
+	height: 24px;
+}
+.CombinationDemo_CombinationDemo .task08 .Group1 .Ellipse1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 24px;
+	height: 24px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	background-size: cover;
+}
+.CombinationDemo_CombinationDemo .task08 .Group1 .Ellipse2 {
+	position: absolute;
+	left: 18px;
+	top: 18px;
+	width: 6px;
+	height: 6px;
+	background: rgba(50,215,75,1.00);
+	border-radius: 50%;
+	border: 0.5px solid rgba(50.000000819563866,215.0000023841858,75.00000312924385,1);
+}
+.CombinationDemo_CombinationDemo .task08 .tungtran {
+	position: relative;
+	flex: none;
+	margin-right: 12px;
+	width: 155px;
+	height: 16px;
+	color: rgba(235,235,245,0.60);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.40625px;
+}
+.CombinationDemo_CombinationDemo .Group5 {
+	position: absolute;
+	left: 33px;
+	top: 52px;
+	width: 121px;
+	height: 52px;
+}
+.CombinationDemo_CombinationDemo .Group5 .ReviewFilm {
+	position: absolute;
+	left: 25px;
+	top: 2px;
+	width: 96px;
+	height: 50px;
+	-webkit-background-clip: text !important;
+	background-clip: text !important;
+	-webkit-text-fill-color: transparent !important;
+	background: linear-gradient(90deg, rgba(57, 119, 220, 0.80) 0.0%, rgba(188, 214, 255, 1.00) 89.5%);
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 900;
+	line-height: 23.4375px;
+}
+.CombinationDemo_CombinationDemo .Group5 .mdigamepadcircle {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 19.67822265625px;
+	height: 19.67822265625px;
+}
+.CombinationDemo_CombinationDemo .Group5 .mdigamepadcircle .Vector_4 {
+	position: absolute;
+	left: 0.81982421875px;
+	top: 0.81982421875px;
+	width: 91.66645988933277%;
+	height: 91.66645988933277%;
+}
+.CombinationDemo_CombinationDemo .Rectangle49 {
+	position: absolute;
+	left: 2px;
+	top: 124px;
+	width: 122px;
+	height: 452px;
+	background: linear-gradient(0deg, rgba(0,0,0,0.20), rgba(0,0,0,0.20)),linear-gradient(0deg, rgba(46,46,46,1.00), rgba(46,46,46,1.00));
+}
+.CombinationDemo_CombinationDemo .BANNER250x750 {
+	position: absolute;
+	left: 34px;
+	top: 335px;
+	width: 58px;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(146,146,146,1.00);
+	font-family: Roboto;
+	font-size: 13px;
+	font-weight: 700;
+	line-height: 15.234375px;
+}
+.CombinationDemo_CombinationDemo .Rectangle51 {
+	position: absolute;
+	right: 0px;
+	top: 124px;
+	width: 122px;
+	height: 452px;
+	background: linear-gradient(0deg, rgba(0,0,0,0.20), rgba(0,0,0,0.20)),linear-gradient(0deg, rgba(46,46,46,1.00), rgba(46,46,46,1.00));
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .BANNER250x750_1 {
+	position: absolute;
+	right: 32px;
+	top: 335px;
+	width: 58px;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(146,146,146,1.00);
+	font-family: Roboto;
+	font-size: 13px;
+	font-weight: 700;
+	line-height: 15.234375px;
+}
+.CombinationDemo_CombinationDemo .Inputwithicon {
+	position: absolute;
+	left: 962px;
+	top: 60px;
+	width: 318px;
+	height: 36px;
+	display: flex;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(47,47,47,1.00);
+	border-radius: 24px;
+}
+.CombinationDemo_CombinationDemo .Inputwithicon .Frame_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 16px;
+	height: 16px;
+}
+.CombinationDemo_CombinationDemo .Inputwithicon .Frame_2 .Vector_5 {
+	position: absolute;
+	left: 1.486328125px;
+	top: 1.486083984375px;
+	width: 81.33544921875%;
+	height: 81.3385009765625%;
+}
+.CombinationDemo_CombinationDemo .Inputwithicon ._Input {
+	position: relative;
+	flex: none;
+	margin-right: 8px;
+	width: 264px;
+	height: 36px;
+	background: transparent;
+	border: none;
+	outline: none;
+	color: rgba(235,235,245,0.60);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 900;
+	line-height: 16.40625px;
+}

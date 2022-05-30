@@ -1,0 +1,39 @@
+
+.DemoConstraintScaling_DemoConstraintScaling {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(20,20,20,1.00);
+}
+.DemoConstraintScaling_DemoConstraintScaling .SCALE {
+	position: absolute;
+	left: 87px;
+	top: 207px;
+	width: 27.77777777777778%;
+	height: 100px;
+	background: rgba(196,196,196,1.00);
+}
+.DemoConstraintScaling_DemoConstraintScaling .NOTEWedonotsupportLeftandRightconstraintandTopandBottomconstraint {
+	position: absolute;
+	left: 87px;
+	top: 61px;
+	width: 738px;
+	height: 23px;
+	color: rgba(255,122,0,1.00);
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: 900;
+	line-height: 23.4375px;
+}
+.DemoConstraintScaling_DemoConstraintScaling .TOPLEFTANDRIGHT {
+	position: absolute;
+	left: 987px;
+	top: 207px;
+	width: 100px;
+	height: 39.0625%;
+	background: rgba(196,196,196,1.00);
+}

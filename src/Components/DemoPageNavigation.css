@@ -1,0 +1,285 @@
+
+.DemoPageNavigation_DemoPageNavigation {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(20,20,20,1.00);
+}
+.DemoPageNavigation_DemoPageNavigation .INPUTPASSWORDBUTTONDEMO {
+	position: absolute;
+	left: 55px;
+	top: 141px;
+	width: 408px;
+	height: 28px;
+	color: rgba(255,122,0,1.00);
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.DemoPageNavigation_DemoPageNavigation .RESPONSIVEDEMO {
+	position: absolute;
+	left: 55px;
+	top: 223px;
+	width: 217px;
+	height: 28px;
+	color: rgba(255,122,0,1.00);
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.DemoPageNavigation_DemoPageNavigation .NAVIGATETOOTHERPAGECAROUSELITEM {
+	position: absolute;
+	left: 55px;
+	top: 305px;
+	width: 505px;
+	height: 28px;
+	color: rgba(255,122,0,1.00);
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.DemoPageNavigation_DemoPageNavigation .NAVIGATETOOTHERPAGELISTITEM {
+	position: absolute;
+	left: 991px;
+	top: 305px;
+	width: 433px;
+	height: 28px;
+	color: rgba(255,122,0,1.00);
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.DemoPageNavigation_DemoPageNavigation .Carousel {
+	position: absolute;
+	left: 10px;
+	top: 397px;
+	width: 952px;
+	height: 354px;
+}
+.DemoPageNavigation_DemoPageNavigation ._Right {
+	position: absolute;
+	left: 916px;
+	top: -42px;
+	width: 36px;
+	height: 36px;
+}
+.DemoPageNavigation_DemoPageNavigation ._Right .Vector {
+	position: absolute;
+	left: 3.375px;
+	top: 3.375px;
+	width: 81.25%;
+	height: 81.25%;
+}
+.DemoPageNavigation_DemoPageNavigation ._Left {
+	position: absolute;
+	left: 856px;
+	top: -42px;
+	width: 36px;
+	height: 36px;
+}
+.DemoPageNavigation_DemoPageNavigation ._Left .Vector_1 {
+	position: absolute;
+	left: 3.375px;
+	top: 3.375px;
+	width: 81.25002119276259%;
+	height: 81.25%;
+}
+.DemoPageNavigation_DemoPageNavigation .Carousel ._Item {
+	position: relative;
+	width: 195px;
+	height: 342px;
+}
+.DemoPageNavigation_DemoPageNavigation .Carousel ._Item .film_name {
+	position: absolute;
+	left: 0px;
+	top: 291px;
+	width: 195px;
+	height: 19px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 18.75px;
+}
+.DemoPageNavigation_DemoPageNavigation .Carousel ._Item .Youtube {
+	position: absolute;
+	left: 0px;
+	top: 314px;
+	width: 134px;
+	height: 28px;
+	color: rgba(255,255,255,0.60);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 18.75px;
+}
+.DemoPageNavigation_DemoPageNavigation .Carousel ._Item .abc {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 195px;
+	height: 274px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DemoPageNavigation_DemoPageNavigation .List {
+	position: absolute;
+	right: 40px;
+	top: 375px;
+	width: 340px;
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 {
+	position: relative;
+	width: 340px;
+	height: 102px;
+	display: flex;
+	padding-top: 8px;
+	box-sizing: border-box;
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 .Thumbnail {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 176px;
+	height: 94px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 8px;
+	box-sizing: border-box;
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 .Thumbnail .ThumbnailImages {
+	position: relative;
+	flex: none;
+	margin-bottom: 10px;
+	width: 168px;
+	height: 94px;
+	background: rgba(255,255,255,1.00);
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 .Thumbnail .ThumbnailImages .ThumbnailImages_1 {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 168px;
+	height: 94px;
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 .Thumbnail .ThumbnailImages .ThumbnailImages_1 .img {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 168px;
+	height: 94px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 .Thumbnail .ThumbnailImages .VideoTime {
+	position: absolute;
+	right: 4px;
+	bottom: 4px;
+	width: 33px;
+	height: 18px;
+	display: flex;
+	padding-top: 3px;
+	padding-right: 4px;
+	padding-bottom: 3px;
+	padding-left: 4px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,1.00);
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 .Thumbnail .ThumbnailImages .VideoTime .VideoTime_1 {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 25px;
+	height: 12px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 11.71875px;
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 .VideoText {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 170px;
+	height: 94px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	box-sizing: border-box;
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 .VideoText .abc_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 170px;
+	height: 40px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 .VideoText .ChannelDesc {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 170px;
+	height: 40px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	box-sizing: border-box;
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 .VideoText .ChannelDesc .channelName {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 170px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 .VideoText .ChannelDesc .channelName .JamesGouse {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 170px;
+	height: 18px;
+	color: rgba(170,170,170,1.00);
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 .VideoText .ChannelDesc .Channelviews {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 170px;
+	height: 18px;
+	display: flex;
+	box-sizing: border-box;
+}
+.DemoPageNavigation_DemoPageNavigation .List ._Item_1 .VideoText .ChannelDesc .Channelviews ._1Mviews3yearsago {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 170px;
+	height: 18px;
+	color: rgba(170,170,170,1.00);
+	font-family: Roboto;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+}

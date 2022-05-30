@@ -1,0 +1,181 @@
+
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(20,20,20,1.00);
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData .Carousel {
+	position: absolute;
+	left: 237px;
+	top: 574px;
+	width: 952px;
+	height: 354px;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData ._Right {
+	position: absolute;
+	left: 916px;
+	top: -42px;
+	width: 36px;
+	height: 36px;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData ._Right .Vector {
+	position: absolute;
+	left: 3.375px;
+	top: 3.375px;
+	width: 81.25%;
+	height: 81.25%;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData ._Left {
+	position: absolute;
+	left: 856px;
+	top: -42px;
+	width: 36px;
+	height: 36px;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData ._Left .Vector_1 {
+	position: absolute;
+	left: 3.375px;
+	top: 3.375px;
+	width: 81.25%;
+	height: 81.25%;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData .Carousel ._Item {
+	position: relative;
+	width: 195px;
+	height: 342px;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData .Carousel ._Item .film_name {
+	position: absolute;
+	left: 0px;
+	top: 291px;
+	width: 195px;
+	height: 19px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 18.75px;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData .Carousel ._Item .Youtube {
+	position: absolute;
+	left: 0px;
+	top: 314px;
+	width: 134px;
+	height: 28px;
+	color: rgba(255,255,255,0.60);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 18.75px;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData .Carousel ._Item .image {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 195px;
+	height: 274px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData .CAROUSELWITHPAGINATION {
+	position: absolute;
+	left: 248px;
+	top: 532px;
+	width: 262px;
+	height: 25px;
+	color: rgba(255,122,0,1.00);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 18.75px;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData .Carousel_1 {
+	position: absolute;
+	left: 244px;
+	top: 125px;
+	width: 952px;
+	height: 354px;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData ._Right_1 {
+	position: absolute;
+	left: 916px;
+	top: -42px;
+	width: 36px;
+	height: 36px;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData ._Right_1 .Vector_2 {
+	position: absolute;
+	left: 3.375px;
+	top: 3.375px;
+	width: 81.25%;
+	height: 81.25%;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData ._Left_1 {
+	position: absolute;
+	left: 856px;
+	top: -42px;
+	width: 36px;
+	height: 36px;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData ._Left_1 .Vector_3 {
+	position: absolute;
+	left: 3.375px;
+	top: 3.375px;
+	width: 81.25%;
+	height: 81.25%;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData .Carousel_1 ._Item_1 {
+	position: relative;
+	width: 195px;
+	height: 342px;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData .Carousel_1 ._Item_1 .film_name_1 {
+	position: absolute;
+	left: 0px;
+	top: 291px;
+	width: 195px;
+	height: 19px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 18.75px;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData .Carousel_1 ._Item_1 .Youtube_1 {
+	position: absolute;
+	left: 0px;
+	top: 314px;
+	width: 134px;
+	height: 28px;
+	color: rgba(255,255,255,0.60);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 18.75px;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData .Carousel_1 ._Item_1 .image_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 195px;
+	height: 274px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.DemoCarouselWithAirtableData_DemoCarouselWithAirtableData .CAROUSELWITHOUTPAGINATION {
+	position: absolute;
+	left: 255px;
+	top: 48px;
+	width: 262px;
+	height: 25px;
+	color: rgba(255,122,0,1.00);
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 18.75px;
+}

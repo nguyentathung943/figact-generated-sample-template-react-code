@@ -1,0 +1,88 @@
+
+.DemoConstraintAlignment_DemoConstraintAlignment {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(20,20,20,1.00);
+}
+.DemoConstraintAlignment_DemoConstraintAlignment .LEFTTOP {
+	position: absolute;
+	left: 108px;
+	top: 142px;
+	width: 100px;
+	height: 100px;
+	background: rgba(196,196,196,1.00);
+}
+.DemoConstraintAlignment_DemoConstraintAlignment .CENTERTOP {
+	position: absolute;
+	left: 50%;
+	top: 142px;
+	transform: translate(-50%, 0);
+	width: 100px;
+	height: 100px;
+	background: rgba(196,196,196,1.00);
+}
+.DemoConstraintAlignment_DemoConstraintAlignment .RIGHTTOP {
+	position: absolute;
+	right: 108px;
+	top: 142px;
+	width: 100px;
+	height: 100px;
+	background: rgba(196,196,196,1.00);
+}
+.DemoConstraintAlignment_DemoConstraintAlignment .LEFTCENTER {
+	position: absolute;
+	left: 108px;
+	top: 48.828125%;
+	transform: translate(0, -50%);
+	width: 100px;
+	height: 100px;
+	background: rgba(196,196,196,1.00);
+}
+.DemoConstraintAlignment_DemoConstraintAlignment .CENTERCENTER {
+	position: absolute;
+	left: 50%;
+	top: 48.828125%;
+	transform: translate(-50%, -50%);
+	width: 100px;
+	height: 100px;
+	background: rgba(196,196,196,1.00);
+}
+.DemoConstraintAlignment_DemoConstraintAlignment .RIGHTCENTER {
+	position: absolute;
+	right: 108px;
+	top: 48.828125%;
+	transform: translate(0, -50%);
+	width: 100px;
+	height: 100px;
+	background: rgba(196,196,196,1.00);
+}
+.DemoConstraintAlignment_DemoConstraintAlignment .LEFTBOTTOM {
+	position: absolute;
+	left: 108px;
+	bottom: 142px;
+	width: 100px;
+	height: 100px;
+	background: rgba(196,196,196,1.00);
+}
+.DemoConstraintAlignment_DemoConstraintAlignment .CENTERBOTTOM {
+	position: absolute;
+	left: 50%;
+	bottom: 142px;
+	transform: translate(-50%, 0);
+	width: 100px;
+	height: 100px;
+	background: rgba(196,196,196,1.00);
+}
+.DemoConstraintAlignment_DemoConstraintAlignment .RIGHTBOTTOM {
+	position: absolute;
+	right: 108px;
+	bottom: 142px;
+	width: 100px;
+	height: 100px;
+	background: rgba(196,196,196,1.00);
+}
